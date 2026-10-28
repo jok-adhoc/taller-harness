@@ -12,7 +12,7 @@ Este repo te guía para armar el harness de **tu** proyecto, paso a paso. No tra
 ## Cómo se usa
 
 ```bash
-git clone <url-de-este-repo>
+git clone https://github.com/jok-adhoc/taller-harness.git
 cd taller-harness
 claude
 ```
